@@ -1,0 +1,14 @@
+C:\Users\Sidali\source\repos\DataLayer\bin\Debug\net8.0\Student.Data.deps.json
+C:\Users\Sidali\source\repos\DataLayer\bin\Debug\net8.0\Student.Data.dll
+C:\Users\Sidali\source\repos\DataLayer\bin\Debug\net8.0\Student.Data.pdb
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.csproj.AssemblyReference.cache
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.AssemblyInfoInputs.cache
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.AssemblyInfo.cs
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.dll
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\refint\Student.Data.dll
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.pdb
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\ref\Student.Data.dll
+C:\Users\Sidali\source\repos\DataLayer\bin\Debug\net8.0\Student.Data.runtimeconfig.json
+C:\Users\Sidali\source\repos\DataLayer\obj\Debug\net8.0\Student.Data.genruntimeconfig.cache
