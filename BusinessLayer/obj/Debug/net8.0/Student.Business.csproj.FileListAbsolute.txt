@@ -1,0 +1,15 @@
+C:\Users\Sidali\source\repos\BusinessLayer\bin\Debug\net8.0\Student.Business.deps.json
+C:\Users\Sidali\source\repos\BusinessLayer\bin\Debug\net8.0\Student.Business.dll
+C:\Users\Sidali\source\repos\BusinessLayer\bin\Debug\net8.0\Student.Business.pdb
+C:\Users\Sidali\source\repos\BusinessLayer\bin\Debug\net8.0\Student.Data.dll
+C:\Users\Sidali\source\repos\BusinessLayer\bin\Debug\net8.0\Student.Data.pdb
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.csproj.AssemblyReference.cache
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.AssemblyInfoInputs.cache
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.AssemblyInfo.cs
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student..9ECBB527.Up2Date
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.dll
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\refint\Student.Business.dll
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\Student.Business.pdb
+C:\Users\Sidali\source\repos\BusinessLayer\obj\Debug\net8.0\ref\Student.Business.dll
