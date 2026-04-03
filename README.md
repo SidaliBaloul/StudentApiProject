@@ -149,33 +149,6 @@ export JWT_SECRET_KEY="your_secret_key_here"
 
 Restart your terminal or IDE after setting the variable.
 
----
-
-# Running the Project
-
-1. Clone the repository
-
-```
-git clone https://github.com/yourusername/student-api.git
-```
-
-2. Navigate to the project directory
-
-```
-cd student-api
-```
-
-3. Restore dependencies
-
-```
-dotnet restore
-```
-
-4. Run the API
-
-```
-dotnet run
-```
 
 ---
 
@@ -183,11 +156,7 @@ dotnet run
 
 Swagger UI is enabled for testing the API.
 
-After running the application, navigate to:
-
-```
-https://localhost:{port}/swagger
-```
+\
 
 You can authenticate using JWT directly from Swagger.
 
